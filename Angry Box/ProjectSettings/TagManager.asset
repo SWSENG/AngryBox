@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Fireball
+  - Explosion
+  - Collectables
+  - AMC
+  - Candy
+  - ChillPill
+  - Point
+  - GM
+  - Bullet
+  - Health
+  - DeathZone
+  - Pause
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Entity
+  - Foreground
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1112093927
+    locked: 0
+  - name: Foreground
+    uniqueID: 1949534481
+    locked: 0
+  - name: Entity
+    uniqueID: 1689332999
+    locked: 0
+  - name: Near
+    uniqueID: 1482253883
+    locked: 0
+  - name: Effects
+    uniqueID: 3990040381
+    locked: 0
