@@ -9,7 +9,8 @@ Angry Box is a 2D platformer game with combining amazing gameplay. The core mech
 - Manage your Anger meter to unlock the full potential of Angry Box powers, turn your anger into STRENGTH to overcome adversities.
 - Anger Management Centre(AMC) to sooth down your anger and tension throughout the stages.
 
-# Develop with using Unity
+# Software
+- Unity
 
 # Game Demo
 ![image](https://github.com/SWSENG/AngryBox/assets/66995676/6c2079f2-dbc5-4f6a-ab30-07667bdc071b)
